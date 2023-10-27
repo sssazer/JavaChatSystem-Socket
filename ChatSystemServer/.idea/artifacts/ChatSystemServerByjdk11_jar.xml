@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatSystemServerByjdk11:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatSystemServerByjdk11_jar</output-path>
+    <root id="archive" name="ChatSystemServer.jar">
+      <element id="module-output" name="ChatSystemServer" />
+    </root>
+  </artifact>
+</component>
